@@ -1,3 +1,6 @@
+# 이 줄은 컴퓨터에서 바뀌었습니다
+Github 연습
+
 # Git Demo
 
 Github 연습
